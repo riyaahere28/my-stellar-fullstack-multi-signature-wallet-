@@ -70,10 +70,11 @@ my-stellar-fullstack/
 
 CONTRACT DETAIL
 
-Contract address:- CBBETPX5WV5V5TUJ2ZCMHYIQ5JJR62RIJQGXGLF7RA2Z74JRFSAOU7E4
-https://stellar.expert/explorer/testnet/contract/CBBETPX5WV5V5TUJ2ZCMHYIQ5JJR62RIJQGXGLF7RA2Z74JRFSAOU7E4
+Contract address:-CBFOFIHLSFIKYSUGXE3GD3A3TYN36ZTWFBA7M64W3PT36ZRSIJY6LHBW
+https://stellar.expert/explorer/testnet/contract/CBFOFIHLSFIKYSUGXE3GD3A3TYN36ZTWFBA7M64W3PT36ZRSIJY6LHBW
+  
 
 Image:-
 
-<img width="1903" height="971" alt="Screenshot 2026-03-20 144306" src="https://github.com/user-attachments/assets/3eadf312-3fbf-40c2-86f8-3a191f107d78" />
+<img width="1882" height="974" alt="Screenshot 2026-03-20 152201" src="https://github.com/user-attachments/assets/ccbd117d-1432-40b3-8f6b-1d3a32fcebc3" />
 
